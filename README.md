@@ -1,7 +1,7 @@
 # HDP
 Hydrology Design Programme (HDP) 0.0.1
 
-The software has been developed to calculate runoff using the methods reported in the SANRAL Drainage Manual Edition 6. 
+The software has been developed to calculate runoff using the methods reported in the South African National Roads Agency (SANRAL) Drainage Manual Edition 6. 
 
 The software has been developed to reduce manual calculations which are usually cause for error and consume an incredible amount of time.
 
